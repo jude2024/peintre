@@ -1,0 +1,3 @@
+/home/jude/peintre/build/CMakeFiles/app.dir
+/home/jude/peintre/build/CMakeFiles/edit_cache.dir
+/home/jude/peintre/build/CMakeFiles/rebuild_cache.dir

@@ -20,7 +20,7 @@ project(app
 	    LANGUAGES CXX)
 #
 # SRC_FILES is the list of source files to compile, files are separated by a space.
-set(SOURCE_FILES main.cpp ) 
+set(SOURCE_FILES main.cpp artiste.cpp gallerie.cpp peinture.cpp ) 
 #
 # set the name of the executable
 set(TARGET app)
